@@ -5,7 +5,9 @@ import CustomImage from "./components/image/image.jsx"
 const App=()=>{
   return(
     <>
-      <h1>hello world</h1>
+~      <h1>Version 1</h1>
+
+
       <CustomList></CustomList>
       <MainHeading/>
       <SecondaryHeading/>
